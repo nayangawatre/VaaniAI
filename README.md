@@ -1,29 +1,27 @@
-# Welcome to your Lovable project
+# VaaniAI — बोलती हुई AI आवाज़ 🎙️
 
-This project was built with [Lovable](https://lovable.dev).
+VaaniAI is a powerful AI Voice Studio that allows users to convert text into highly expressive, cinematic speech. Shape the voice, adjust the emotion, and download your performance instantly. 
 
-## Build with Lovable
+## ✨ Features
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+* **Multilingual Support:** Generate high-quality voiceovers in Hindi (हिन्दी), English, and Marathi (मराठी).
+* **Cinematic Voice Selection:** Choose from distinct original voices (Male/Female):
+  * **Classic lead:** Deep & assured
+  * **Romantic lead:** Soft & charming
+  * **Action lead:** Bold & energetic
+  * **Epic storyteller:** Rich & theatrical
+* **Emotion Control:** Fine-tune the delivery by selecting the exact emotion for your text: Natural, Joyful, Heartfelt, Dramatic, or Suspenseful.
+* **Precision Controls:** Adjust playback speed (up to 4000 characters per generation).
+* **Session History:** Listen back to generated clips and download audio files directly from the session history.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## 🚀 Getting Started
 
-## Development
+### Prerequisites
+* [Node.js](https://nodejs.org/) (if using a JavaScript framework)
+* API Keys for the AI Text-to-Speech provider (e.g., ElevenLabs, OpenAI, Google TTS)
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+### Installation
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/VaaniAI.git](https://github.com/YOUR_USERNAME/VaaniAI.git)
